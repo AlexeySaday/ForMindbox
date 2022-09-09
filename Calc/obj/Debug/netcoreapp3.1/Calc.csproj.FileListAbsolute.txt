@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Hp\source\repos\ConsoleApp8\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.AssemblyReference.cache
