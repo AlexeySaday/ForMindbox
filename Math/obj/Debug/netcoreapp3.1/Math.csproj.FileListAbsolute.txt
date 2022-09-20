@@ -1,5 +1,0 @@
-C:\Users\Hp\source\repos\ConsoleApp8\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
-C:\Users\Hp\source\repos\ConsoleApp8\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hp\source\repos\ConsoleApp8\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
-C:\Users\Hp\source\repos\ConsoleApp8\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
-C:\Users\Hp\source\repos\ConsoleApp8\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
